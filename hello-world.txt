@@ -1,2 +1,4 @@
 Hello world! This is a new file in my git directory.
 
+This is another change that is not yet reflected in our git repository but is now because it's a good idea.
+
