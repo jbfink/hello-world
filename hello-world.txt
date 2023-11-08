@@ -3,3 +3,5 @@ Hello world! This is a new file in my git directory.
 This is another change that is not yet reflected in our git repository but is now because it's a good idea.
 
 I have replaced a line here!
+
+Here is a line that is in new-branch branch but *not* in main branch! yet.
